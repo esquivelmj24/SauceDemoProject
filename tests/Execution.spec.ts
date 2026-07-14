@@ -16,3 +16,8 @@ import {test, expect } from '@playwright/test';
 
 // TC_004
 // Verification of test Cases no. 4
+
+
+// TC_005
+// Verification of test Cases no. 5
+
